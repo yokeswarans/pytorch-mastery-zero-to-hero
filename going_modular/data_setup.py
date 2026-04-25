@@ -7,7 +7,7 @@ import os
 import torch
 
 
-numworkers=os.cpu_count()
+numworkers=0
 
 def create_dataloaders(train_dir, test_dir, transform, batch_size, num_workers=numworkers):
   """Create PyTorch DataLoaders for training and testing datasets.
