@@ -137,7 +137,7 @@ Drop a ⭐ if this was useful, open an issue if you spot something wrong, or jus
 
 <div align="center">
   <br>
-  <strong>My notes, my code, my progress - by <a href="https://github.com/yokeswarans">@yokeswaran</a></strong>
+  <strong>My notes, my code, my progress - by <a href="https://github.com/yokeswarans">yokeswaran</a></strong>
   <br><br>
   <em>Learning in public · Failing forward · Getting better every day</em>
 </div>
